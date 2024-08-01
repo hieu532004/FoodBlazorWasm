@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\C#6\\BÀI TẬP\\ASM_C#6\\ASM_C#6\\BlazorAppGoodFood\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\C#6\\BÀI TẬP\\ASM_C#6\\ASM_C#6\\BlazorAppGoodFood\\obj\\Debug\\net8.0\\compressed\\y5xztsrlnm.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\C#6\\BÀI TẬP\\ASM_C#6\\ASM_C#6\\BlazorAppGoodFood\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorAppGoodFood.styles.css",
+      "PackagePath": "staticwebassets\\BlazorAppGoodFood.styles.css"
+    },
+    {
+      "Id": "C:\\C#6\\BÀI TẬP\\ASM_C#6\\ASM_C#6\\BlazorAppGoodFood\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\C#6\\BÀI TẬP\\ASM_C#6\\ASM_C#6\\BlazorAppGoodFood\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\C#6\\BÀI TẬP\\ASM_C#6\\ASM_C#6\\BlazorAppGoodFood\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\C#6\\BÀI TẬP\\ASM_C#6\\ASM_C#6\\BlazorAppGoodFood\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\C#6\\BÀI TẬP\\ASM_C#6\\ASM_C#6\\BlazorAppGoodFood\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\C#6\\BÀI TẬP\\ASM_C#6\\ASM_C#6\\BlazorAppGoodFood\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\C#6\\BÀI TẬP\\ASM_C#6\\ASM_C#6\\BlazorAppGoodFood\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorAppGoodFood.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorAppGoodFood.props",
+      "PackagePath": "build\\BlazorAppGoodFood.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorAppGoodFood.props",
+      "PackagePath": "buildMultiTargeting\\BlazorAppGoodFood.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorAppGoodFood.props",
+      "PackagePath": "buildTransitive\\BlazorAppGoodFood.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
